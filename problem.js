@@ -13,3 +13,5 @@ if(user_name == correctU){
 }else{
 console.log("email is credintle");
 }
+// right code 
+//comment add in code
